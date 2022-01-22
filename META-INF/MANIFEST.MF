@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: iDempiere Theme Pack
+Bundle-SymbolicName: com.anozimada.idempiere.themepack
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: ANOZIMADA
+Fragment-Host: org.adempiere.ui.zk;bundle-version="9.0.0"
+Automatic-Module-Name: com.anozimada.idempiere.themepack
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Jetty-WarPrependFragmentResourcePath: /
