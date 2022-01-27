@@ -1,5 +1,5 @@
 .mandatory-decorator-text {
-	text-decoration: none; font-size: xx-small; vertical-align: top; color:red;
+	text-decoration: none; font-size: xx-small; vertical-align: top; /* color:red */;
 }
 
 .editor-box {
@@ -34,7 +34,7 @@
 	padding: 0px;
 	margin: 0px;
 	display: inline-block;
-	background-color: #0093f9;
+	/* background-color: #0093f9; */
 	background-image: none;
 	width: 20px;
 	height: 22px;
@@ -114,7 +114,7 @@ span.grid-combobox-editor {
 }
 	
 .grid-combobox-editor input:focus + .z-combobox-button {
-	border-left: 1px solid #0000ff;
+	/* border-left: 1px solid #0000ff; */
 }
 
 .editor-input.z-combobox + .editor-button {
@@ -171,7 +171,7 @@ span.grid-combobox-editor {
 
 .image-field {
 	cursor: pointer;
-	border: 1px solid #C5C5C5;
+	/* border: 1px solid #C5C5C5; */
 	height: 24px;
 	width: 24px;
 }
@@ -196,16 +196,16 @@ span.grid-combobox-editor {
 }
 
 .idempiere-mandatory, .idempiere-mandatory input, .idempiere-mandatory a {
-    border-color:red;
+    /* border-color:red; */
 }
 
 .editor-button.z-button-os{
 	top: 0px;
-	background-color: #ffffff00 !important;
+	background-color: transparent !important;
 }
 
 .idempiere-mandatory-label{
-   color: red!important;
+   /* color: red!important; */
 }
 
 .idempiere-zoomable-label {
@@ -213,10 +213,10 @@ span.grid-combobox-editor {
     text-decoration: underline;
 }
 .z-button [class^="z-icon-"], .z-button-os [class^="z-icon-"] {
-	color: #fff;
+	/* color: #fff; */
 }
 
 .z-icon-Online {
-	color : #0093f9 !important;
+	/* color : #0093f9 !important; */
 }
  

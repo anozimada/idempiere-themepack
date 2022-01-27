@@ -17,11 +17,11 @@
 	cursor: pointer;
 }
 .tabs .bd {
-	background: #7ac8ff;
+	/* background: #7ac8ff; */
 	zoom: 1;
 }
 .tabs .t1, .tabs .t2, .tabs .t3 {
-	background: #0093f9;
+	/* background: #0093f9; */
 	font-size: 0;
 	line-height: 0;
 	margin: 0 2px;
@@ -33,7 +33,7 @@
 	margin: 0 1px;
 }
 .tabs .t3 {
-	background: white;
+	/* background: white; */
 	height: 1px;
 	margin: 0 1px;
 }
@@ -50,11 +50,11 @@
 	margin: 0 1px;
 }
 .tabs .b3 {
-	background: white;
+	/* background: white; */
 	height: 1px;
 	margin: 0 1px;
 }
-.tabs .cm {
+/* .tabs .cm {
 	background: #ffffff;
 	margin: 0 1px;
 	border-left: 1px solid white;
@@ -62,14 +62,14 @@
 }
 .tabs .cm :hover {
 	background: #7ac8ff;
-}
+} */
 .tabs .text {
 	line-height: 1.2em;
 	position: relative;
 	vertical-align: middle;
 	text-align: center;
 	white-space: nowrap;
-	color: #f0f3f5;
+	/* color: #f0f3f5; */
 }
 .tabs .text, .tabs .text * {
 	background: none;
@@ -78,8 +78,8 @@
 	position: relative;
 }
 .top {
-	background: #ffffff;
-	border-bottom: 0.2em solid #ffffff;
+	/* background: #ffffff;
+	border-bottom: 0.2em solid #ffffff; */
 	overflow: hidden;
 	height: 0.7em;
 	position: absolute;
@@ -106,11 +106,11 @@
 	margin: -3px;
 }
 .arrows .cnt {
-	background: #0093f9;
+	/* background: #0093f9; */
 	zoom: 1;
 }
 .arrow-left {
-	border-color: #0093f9 #f2f9ff #0093f9 #0093f9;
+	/* border-color: #0093f9 #f2f9ff #0093f9 #0093f9; */
 	border-style: solid;
 	border-width: 5px;
 	height: 0;
@@ -122,7 +122,7 @@
 	line-height: 0;
 }
 .arrow-right {
-	border-color: #0093f9 #0093f9 #0093f9 #f2f9ff;
+	/* border-color: #0093f9 #0093f9 #0093f9 #f2f9ff; */
 	border-style: solid;
 	border-width: 5px;
 	height: 0;
@@ -133,7 +133,7 @@
 	font-size: 0;
 	line-height: 0;
 }
-.arrow-over .cnt {
+/*.arrow-over .cnt {
 	background-color: #f2f9ff;
 }
 .arrow-over .arrow-left {
@@ -141,7 +141,7 @@
 }
 .arrow-over .arrow-right {
 	border-color: #f2f9ff #f2f9ff #f2f9ff #0093f9;
-}
+} */
 .blue *, .red *, .green *, .purple *, .khaki * {
 	color: white;
 	text-align: center;
@@ -608,7 +608,7 @@
 }
 
 .z-calendars-day-of-week-inner.z-calendars-week-today{
-	background-color:#0093f9;
+	/* background-color:#0093f9; */
 	border-color:white white white white;
 	border-style:solid;
 	border-width:1px;
@@ -617,10 +617,10 @@
 	padding-bottom:1px;
 	color:#ffffff
 }
-
+/*
 .z-calendars-week-day.z-calendars-week-today{
 	background-color:#0093f9
-}
+}*/
 
 .z-calendars-week-day{
 	border-left:3px solid #FFFFFF;
@@ -734,7 +734,7 @@
 }
 
 .z-calendars-month-date.z-calendars-week-today{
-	 background-color:#0093f9 !important;
+	 /* background-color:#0093f9 !important; */
 	 color: #ffffff;
 	 font-weight: bold;
 }
@@ -1002,8 +1002,8 @@
 }
 
 a.refresh > span.z-toolbarbutton-content {
-	background-color: #0093f9;
-    color: white;
+	/* background-color: #0093f9;
+    color: white; */
     padding: 5px;
 }
 

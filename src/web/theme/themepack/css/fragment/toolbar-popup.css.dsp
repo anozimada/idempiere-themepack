@@ -1,6 +1,6 @@
 .toolbar-popup-window {
-	border-left: 1px solid #c5c5c5;
-	border-right: 1px solid #c5c5c5;
+	/* border-left: 1px solid #c5c5c5;
+	border-right: 1px solid #c5c5c5; */
 }
 .toolbar-popup-window .z-window-content {
 	padding: 0px;

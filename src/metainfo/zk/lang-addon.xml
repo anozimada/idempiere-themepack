@@ -6,5 +6,5 @@
 
 	<!-- this js module doesn't actually exists and it is here for iceblue_c theme version -->
 	<!-- since loading of js module is on demand, it doesn't cause any error as long as you don't try to load it -->
-	<javascript-module name="com.anozimada.idempiere.themepack" version="202201221530" />
+	<javascript-module name="com.anozimada.idempiere.themepack" version="202201272000" />
 </language>

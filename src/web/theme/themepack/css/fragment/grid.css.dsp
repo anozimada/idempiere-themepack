@@ -15,16 +15,16 @@
 .z-grid tbody tr.highlight span.row-indicator-selected.z-icon-Edit {
 	font-family: FontAwesome;
 	font-size: larger;
-	color: #333; 
+	/* color: #333; */
 }
 
 .z-grid tbody tr.highlight td.z-cell { 
-	background-color: #FFFFCC !important;
+	/* background-color: #FFFFCC !important; */
 	background-image: none !important;
 }
 
 .z-grid tbody tr.highlight td.row-indicator-selected {
-	background-color: #FFFFCC !important;
+	/* background-color: #FFFFCC !important; */
 	background-image: url(${c:encodeURL('~./theme/themepack/images/EditRecord16.png')}) !important;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -83,7 +83,7 @@ div.z-column-cnt, div.z-grid-header div.z-auxheader-cnt {
 }
 
 .z-grid-body {
-	background-color: #FFF;
+	/* background-color: #FFF; */
 }
 
 <%-- grid layout --%>
@@ -120,6 +120,6 @@ div.z-listbox-body .z-listcell {
 	height: 20px;
 }
 .z-listheader-content .z-label {
-	color: #FFF;
+	/* color: #FFF; */
 }
 

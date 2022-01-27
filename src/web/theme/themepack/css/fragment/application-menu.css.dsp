@@ -3,14 +3,14 @@
 .menu-href {
 	font-size: 11px;
 	font-weight: normal;
-	color: #333 !important;
+	/* color: #333 !important; */
 	text-decoration: none !important;
 	padding-right: 4px;
 }
 
 .menu-href:hover, .menu-href:active {
 	text-decoration: underline !important;
-	color: blue !important;
+	/* color: blue !important; */
 }
 
 .menu-href img {
@@ -76,7 +76,7 @@
 
 .menu-search-toggle-box {
 	display: inline-block;
-	border: 1px solid #ababab;			
+	/* border: 1px solid #ababab; */			
 }
 
 .menu-search-toggle-box .z-toolbarbutton-hover {
@@ -151,7 +151,7 @@
 
 .menu-href [class^="z-icon-"] {
 	font-size: larger;
-	color: #333;	
+	/* color: #333; */	
 	padding-right: 4px;
 	text-align: center;
 }
@@ -160,7 +160,7 @@
 }
 .menu-href-newbtn.z-toolbarbutton [class^="z-icon-"] {
 	font-size: smaller;
-	color: #333;
+	/* color: #333; */
 }
 .menu-href-newbtn.z-toolbarbutton,
 .menu-href-newbtn.z-toolbarbutton .z-toolbarbutton-content {

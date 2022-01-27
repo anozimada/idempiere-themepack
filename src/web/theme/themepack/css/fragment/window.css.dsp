@@ -1,5 +1,5 @@
 div.wc-modal, div.wc-modal-none, div.wc-highlighted, div.wc-highlighted-none {
-	background-color: white;
+	/* background-color: white; */
 }
 
 .z-window-embedded .z-window-content {
@@ -49,7 +49,7 @@ div.wc-modal, div.wc-modal-none, div.wc-highlighted, div.wc-highlighted-none {
 .z-window-modal .z-window-header,
 .z-window-highlighted .z-window-header
 {
-	color: #484848;
+	/* color: #484848; */
 	font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ div.wc-modal, div.wc-modal-none, div.wc-highlighted, div.wc-highlighted-none {
 }
 
 .embedded-dialog .z-window-embedded-header {
-	color: #fff;
+	/* color: #fff; */
 	font-weight: bold;
 }
 
@@ -89,7 +89,7 @@ div.wc-modal, div.wc-modal-none, div.wc-highlighted, div.wc-highlighted-none {
 
 .dialog-footer {
 	margin-bottom: 0;
-	background-color: #F7FAFF;
+	/* background-color: #F7FAFF; */
 	border-top: 1px solid transparent;
 	-webkit-box-shadow: inset 0 1px 0 #ffffff;
 	-moz-box-shadow: inset 0 1px 0 #ffffff;

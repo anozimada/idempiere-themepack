@@ -85,10 +85,10 @@
 	color: inherit;
 }
 .font-icon-toolbar-button.toolbar-button {
-	color :#333;
+	/* color :#333; */
 }
 .font-icon-toolbar-button.toolbar-button:hover {
-	color: #fff;
+	/* color: #fff; */
 }
 .font-icon-toolbar-button .z-toolbarbutton-content {
 	color: inherit;
@@ -112,8 +112,8 @@
   }
 }
 .z-toolbarbutton-checked {
-    color: #FFFFFF !important;
-    background-color: #0093F9 !important;
+    /* color: #FFFFFF !important;
+    background-color: #0093F9 !important; */
 }
 .z-toolbarbutton[disabled], .z-toolbarbutton[disabled]:hover {
 	background-color: transparent;

@@ -115,17 +115,17 @@ when detect side effect, fix to only apply for parameter window*/
 }
 @media screen and (min-width: 501px) {
 	.option-input-parameter.print-format-list > input::-webkit-input-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }
 @media screen and (min-width: 501px) {
 	.option-input-parameter.print-format-list > input::-moz-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }
 @media screen and (min-width: 501px) {
 	.option-input-parameter.print-format-list > input::-ms-input-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }
 @media screen and (max-width: 400px) {
@@ -145,16 +145,16 @@ when detect side effect, fix to only apply for parameter window*/
 }
 @media screen and (min-width: 501px) {
 	.save-parameter-container .saved-parameter-list > input::-webkit-input-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }
 @media screen and (min-width: 501px) {
 	.save-parameter-container .saved-parameter-list > input::-moz-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }
 @media screen and (min-width: 501px) {
 	.save-parameter-container .saved-parameter-list > input::-ms-input-placeholder {
-		color: white;
+		/* color: white; */
 	}
 }

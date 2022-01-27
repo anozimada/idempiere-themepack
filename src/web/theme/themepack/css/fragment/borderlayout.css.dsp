@@ -51,29 +51,29 @@
 }
 
 .z-north.slide {
-	border-bottom: 1px solid #cfcfcf;
-	box-shadow: 0px 0px 1px 1px #cfcfcf;
+	/* border-bottom: 1px solid #cfcfcf;
+	box-shadow: 0px 0px 1px 1px #cfcfcf; */
 	padding-bottom: 4px;
 }
 .z-south.slide {
-	border-top: 1px solid #cfcfcf;
-	box-shadow: 0px 0px 1px 1px #cfcfcf;
+	/* border-top: 1px solid #cfcfcf;
+	box-shadow: 0px 0px 1px 1px #cfcfcf; */
 	padding-top: 4px;
 }
 .z-west.slide {
-	border-right: 1px solid #cfcfcf;
-	box-shadow: 0px 0px 1px 1px #cfcfcf;
+	/* border-right: 1px solid #cfcfcf;
+	box-shadow: 0px 0px 1px 1px #cfcfcf; */
 	padding-right: 4px;
 }
 .z-east.slide {
-	border-left: 1px solid #cfcfcf;
-	box-shadow: 0px 0px 1px 1px #cfcfcf;
+	/* border-left: 1px solid #cfcfcf;
+	box-shadow: 0px 0px 1px 1px #cfcfcf; */
 	padding-left: 4px;
 }
 
 <%-- Splitter --%>
 .z-east-splitter-button, .z-west-splitter-button, .z-north-splitter-button, .z-south-splitter-button {
-    color: rgba(0,0,0,0.60);
+    /* color: rgba(0,0,0,0.60); */
     vertical-align: middle;
 }
 
@@ -83,7 +83,7 @@
 .z-west-splitter:hover .z-north-splitter-button, .z-north-splitter:hover .z-north-splitter-button, .z-south-splitter:hover .z-north-splitter-button, 
 .z-east-splitter:hover .z-south-splitter-button, .z-west-splitter:hover .z-south-splitter-button, .z-north-splitter:hover .z-south-splitter-button, 
 .z-south-splitter:hover .z-south-splitter-button {
-    color: rgba(0,0,0,0.80);
+    /* color: rgba(0,0,0,0.80); */
 }
 
 .z-north-splitter, .z-south-splitter {

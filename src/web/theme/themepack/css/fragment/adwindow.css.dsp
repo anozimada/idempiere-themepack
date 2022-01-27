@@ -34,7 +34,7 @@
 	width: 100%;
 	padding: 0px;
 	margin: 0px;
-	border-top: 1px solid #C5C5C5 !important;
+	/* border-top: 1px solid #C5C5C5 !important; */
 }
 
 .adwindow-status {
@@ -49,7 +49,7 @@
 }
 
 .docstatus-error .z-label {
-	color: red;
+	/* color: red; */
 }
 
 .adwindow-status-docstatus {
@@ -65,10 +65,10 @@
 
 .adwindow-breadcrumb {
 	min-height: 32px;
-	background-color: #FFF;
+	/* background-color: #FFF; */
 	padding: 0px;
 	padding-left: 5px;
-	border-bottom: 1px solid #C5C5C5 !important;
+	/* border-bottom: 1px solid #C5C5C5 !important; */
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
@@ -107,7 +107,7 @@
 }
 
 .adwindow-detailpane-tabpanel {
-	background-color: #fff
+	/* background-color: #fff; */
 }
 
 .adwindow-detailpane-toolbar {
@@ -169,7 +169,7 @@
 	padding: 0px !important;
 	height: 2em;
 	border: none;
-	background: #f2f3f2;
+	/* background: #f2f3f2; */
 }
 
 .adwindow-detailpane-adtab-grid-south .z-paging .z-paging-inp {
@@ -296,7 +296,7 @@
 	border: 1px solid #d0cdc8;
 	border-top-left-radius: 2px;
 	border-top-right-radius: 2px;
-	border-bottom: 2px solid #d0cdc8;
+	/* border-bottom: 2px solid #d0cdc8; */
 	border-bottom-left-radius: 4px;
 	border-bottom-right-radius: 4px;
 	margin-left: 3px;
@@ -342,7 +342,7 @@
 	background-position: center;
 }
 .mobile-overflow-link:active {
-	background-color: #ddd;
+	/* background-color: #ddd; */
   	background-size: 80%;
 	transition: background 0s;
 }

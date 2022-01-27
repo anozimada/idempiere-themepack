@@ -9,18 +9,18 @@
 .z-button-focus,
 .z-button-click,
 .z-button-disabled {
-  color: #333333;
-  background-color: #dde4e6 !important;
+  /* color: #333333;
+  background-color: #dde4e6 !important; */
 }
 
 .z-button-click {
-  background-color: #cccccc \9;
+  /* background-color: #cccccc \9; */
 }
 
 .z-button-hover,
 .z-button-focus {
   border-color: transparent !important;
-  color: #333333;
+  /* color: #333333; */
   text-decoration: none;
   background-position: 0 -15px;
   -webkit-transition: background-position 0.1s linear;
@@ -59,7 +59,7 @@
 }
 
 .z-button-disabled {
-	color: black; cursor: default; opacity: .6; -moz-opacity: .6; -khtml-opacity: .6; filter: alpha(opacity=60);
+	/* color: black; */ cursor: default; opacity: .6; -moz-opacity: .6; -khtml-opacity: .6; filter: alpha(opacity=60);
 }
 
 .img-btn img {
@@ -77,16 +77,17 @@
 }
 
 .btn-sorttab {
-	box-shadow: 0px 0px 4px #bbb;
+	/* box-shadow: 0px 0px 4px #bbb;
 	color: #555;
 	border: solid 1px #bbb;
-	text-shadow: 0px 1px 2px #888;
+	text-shadow: 0px 1px 2px #888; */
+	border: none;
 }
 
 .z-button [class^="z-icon-"][disabled],
 .z-button-os [class^="z-icon-"][disabled]{
 	font-size: larger;
-	color: #333;	
+	/* color: #333;	*/
 	padding-left: 2px;
 	padding-right: 2px;
 }
@@ -103,18 +104,18 @@
 	font-size: 12px;
 }
 .btn-ok, .btn-ok:focus {
-	background-color: green;
+	/* background-color: green; */
 }
 .btn-cancel, .btn-cancel:focus {
-	background-color: red;
+	/* background-color: red; */
 }
 .btn-ok.z-button [class^="z-icon-"]:before {
-	color: white;	
+	/* color: white; */	
 }
 .btn-cancel.z-button [class^="z-icon-"]:before {
-	color: white;	
+	/* color: white; */	
 }
 .z-datebox-button {
-	background-color: #0093f9 !important;
-	color: white !important;
+	/* background-color: #0093f9 !important;
+	color: white !important; */
 }

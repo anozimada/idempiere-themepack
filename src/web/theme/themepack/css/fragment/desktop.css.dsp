@@ -1,6 +1,6 @@
 <%-- header --%>
 .desktop-north {
-	background-color: #C7E8FF;
+	/* background-color: #C7E8FF; */
 }
 .desktop-header-left {
 	margin: 0;
@@ -19,10 +19,10 @@
 }
 
 .desktop-header {
-	background-color: #C7E8FF;
+	/* background-color: #C7E8FF; */
 	width: 100%;
 	height: 46px;
-	border-bottom: 1px solid #ADDDFF !important;
+	/* border-bottom: 1px solid #ADDDFF !important; */
 	padding-left: 4px;
 }
 .desktop-header.mobile {
@@ -37,8 +37,8 @@
 .desktop-header-popup {
 	width: 800px;
 	border-radius: 2px;
-	border: 1px solid #d5d5d5;
-	border-right: 2px solid #d5d5d5;
+	/* border: 1px solid #d5d5d5;
+	border-right: 2px solid #d5d5d5; */
 	border-bottom-width: 2px;
 	right: 1px;
 }
@@ -53,13 +53,19 @@
 }
 
 .desktop-header-username:hover {
-	color: blue;
-	text-decoration: underline;
+	/* color: blue;
+	text-decoration: underline; */
 }
 
 .desktop-user-panel {
 	float: right;
+	color: white;
 }
+
+.desktop-user-panel .z-toolbarbutton {
+	color: white;
+}
+
 .desktop-user-panel.mobile .desktop-header-font.desktop-header-username {
 	font-weight: 600;
 }
@@ -113,17 +119,17 @@
 
 .desktop-left-column {
 	width: 200px;
-	border: none;
+	/* border: none;
 	border-right: 1px solid #C5C5C5;
-	background-color: #e0f2ff;
+	background-color: #e0f2ff; */
 	padding-top: 2px; 
 }
 
 .desktop-right-column {
 	width: 200px;
-	border: none;
+	/* border: none;
 	border-left: 1px solid #C5C5C5;
-	background-color: #e0f2ff;
+	background-color: #e0f2ff; */
 	padding-top: 2px; 
 }
 
@@ -196,7 +202,7 @@
 .desktop-menu-toolbar {
 	verticle-align: middle; 
 	padding: 2px;
-	border-top: 1px solid #c5c5c5;
+	/* border-top: 1px solid #c5c5c5; */
 }
 
 .desktop-home-tabpanel {

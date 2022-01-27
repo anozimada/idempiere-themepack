@@ -10,17 +10,17 @@
 }
 
 .z-panel-icon {
-	font-size: 12px !important;
+	/* font-size: 12px !important;
     color: #ACACAC !important;
     margin: 4px 0 0 0 !important;
     line-height: 24px !important;
     border: 0px !important;
-    border-radius: 0px !important;
+    border-radius: 0px !important; */
 }
 .z-panel {
-	border-radius: 0px;
+	/* border-radius: 0px;
 	border: 1px solid #d8d8d8;
-	border-bottom-width: 2px;
+	border-bottom-width: 2px; */
 }
 
 .z-panel-noborder {
@@ -32,8 +32,8 @@
 }
 
 .z-panel-head .z-panel-header {
-	padding: 2px 5px;
-    border-bottom: 1px solid #e4e4e4;
+	/* padding: 2px 5px;
+    border-bottom: 1px solid #e4e4e4; */
 }
 
 .z-caption .z-caption-content {
@@ -154,15 +154,15 @@
 .window-view-pi .performance-indicator img {
 }
 .performance-indicator-box {
-	background-color: #eee; 
+	/* background-color: #eee; 
 	border: 1px solid #d8d8d8; 
-	border-radius: 11px; 
+	border-radius: 11px;  */
 	cursor: pointer;
 }
 .performance-indicator-title {
 	text-align: center; 
-	background-color: #c8c8c8; 
-	border: 1px solid #c8c8c8;
+	/* background-color: #c8c8c8; 
+	border: 1px solid #c8c8c8; */
 	padding-top: 4px; 
 	padding-bottom: 4px;
 }

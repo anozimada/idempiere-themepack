@@ -1,5 +1,5 @@
 .info-panel .z-window-overlapped, .info-panel .z-window-highlighted {
-	background-color: #F4F4F4 !important;
+	/* background-color: #F4F4F4 !important; */
 }
 
 .info-panel .z-grid {

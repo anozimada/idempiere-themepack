@@ -55,7 +55,7 @@
 	display: inline-block;
 }
 .busy-dialog-label {
-	color: #363636;
+	/* color: #363636; */
 }
 
 <%-- status bar --%>
@@ -72,21 +72,21 @@
 	width: 100%;
 	height: 100%;
 	margin: 0;
-	border-left: solid 1px #9CBDFF;
+	/* border-left: solid 1px #9CBDFF; */
 }
 .status-info {
 	padding-right: 10px;
-	border-left: solid 1px #9CBDFF;
+	/* border-left: solid 1px #9CBDFF; */
 }
 
 .status-selected{
 	padding-right: 5px;
 	padding-right: 5px;
-	border-right: solid 1px #9CBDFF;
+	/* border-right: solid 1px #9CBDFF; */
 }
 
 .status-border {
-	border: solid 1px #9CBDFF;
+	/* border: solid 1px #9CBDFF; */
 }
 
 <%-- report wizard --%>

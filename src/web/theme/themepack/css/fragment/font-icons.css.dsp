@@ -45,13 +45,13 @@
 .z-icon-ErrorMessageBox:before {
 	content: "\f057";
 	font-size: 32px;
-	color: red;
+	/* color: red; */
 	font-family: FontAwesome;
 }
 .z-icon-ExclamationMessageBox:before {
 	content: "\f06a";
 	font-size: 32px;
-	color: yellow;
+	/* color: yellow; */
 	font-family: FontAwesome;
 }
 .z-icon-Expand:before {
@@ -108,7 +108,7 @@
 .z-icon-InfoMessageBox:before {
 	content: "\f05a";
 	font-size: 32px;
-	color: blue;
+	/* color: blue; */
 	font-family: FontAwesome;
 }
 .z-icon-InfoInOut:before {	
@@ -220,7 +220,7 @@
 .z-icon-QuestionMessageBox:before {
 	content: "\f059";
 	font-size: 32px;
-	color: green;
+	/* color: green; */
 	font-family: FontAwesome;
 }
 .z-icon-Refresh:before {

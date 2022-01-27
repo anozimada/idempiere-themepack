@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/darkcyan.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/darkpurple.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/darkred.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/darkyellow.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/liteblue.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/litecyan.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/litepurple.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/litered.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/liteyellow.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/darkblue.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/darkgreen.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/litegreen.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src"/>

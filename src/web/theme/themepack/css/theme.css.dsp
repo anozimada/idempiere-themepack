@@ -7,8 +7,8 @@ html,body {
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #D4E3F4;
-	color: #333;
+	/* background-color: #D4E3F4;
+	color: #333; */
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 	overflow: hidden;
 }
