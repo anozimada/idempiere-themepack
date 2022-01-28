@@ -1,4 +1,7 @@
 # iDempiere Theme Pack
+Theme pack for iDempiere that includes lite and dark themes. With this plugin iDempiere user can switch to their prefered theme without affecting other users.
+
+![screenshots](./screenshots/screenshots.gif)
 
 ## List of themes
 - Dark Blue
@@ -13,6 +16,9 @@
 - Lite Purple
 - Lite Red
 - Lite Yellow
+
+## Prerequisite
+- iDempiere v9
 
 ## How to install?
 1. Download fragment binary of idempiere-themepack [here](https://github.com/anozimada/idempiere-themepack/releases) (jar file)
