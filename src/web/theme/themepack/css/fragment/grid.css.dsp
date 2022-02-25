@@ -33,7 +33,7 @@
 }
 
 .z-grid tbody tr.highlight td.row-indicator {
-	background-color: transparent !important;
+	/* background-color: transparent !important; */
 	background-image: none !important; 
 }
 
