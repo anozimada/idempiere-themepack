@@ -50,6 +50,18 @@
 	height: 26px;
 }
 
+.z-chosenbox-del-btn {
+	border: none !important;
+	background: none !important;
+}
+.z-chosenbox-del-btn::before {
+	font-family: FontAwesome;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 14px;
+	content: "\f00d";
+}
+
 .editor-button :hover {
 	-webkit-filter: contrast(1.5);
 	filter: contrast(150%);
