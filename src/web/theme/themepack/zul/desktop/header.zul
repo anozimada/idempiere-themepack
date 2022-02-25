@@ -7,13 +7,16 @@
 					<div id="menuLookup"/>
 					<button id="menuButton" sclass="btn-small"/>
 			</hbox>
-			<vbox  hflex="min" apply="org.adempiere.webui.panel.UserPanel" align="end"
+			<vbox  hflex="min" apply="com.anozimada.idempiere.themepack.panel.UserPanel" align="end"
 					sclass="desktop-user-panel">
 					<vbox  align="end">
 						<label use="org.adempiere.webui.component.Label" id="loginUserAndRole" 
 							style="cursor: pointer;"
 							sclass="desktop-header-font desktop-header-username"/>
 						<hbox align="center" id="userPanelLinksContainer" hflex="min">
+							<toolbarbutton use="org.adempiere.webui.component.ToolBarButton"
+								sclass="desktop-header-font link" id="theme"/>
+							<separator orient="vertical" bar="true" height="13px"/>
 							<toolbarbutton use="org.adempiere.webui.component.ToolBarButton"
 								sclass="desktop-header-font link" id="feedback"/>
 							<separator orient="vertical" bar="true" height="13px"/>
