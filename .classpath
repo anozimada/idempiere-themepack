@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/grey.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lightningcloud.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/summermidnight.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/darkcyan.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/darkpurple.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/darkred.jar"/>
