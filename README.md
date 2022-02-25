@@ -17,6 +17,11 @@ Theme pack for iDempiere that includes lite and dark themes. With this plugin iD
 - Lite Red
 - Lite Yellow
 
+Since 1.1.0
+- Grey
+- Lightning Cloud
+- Summer Midnight
+
 ## Prerequisite
 - iDempiere v9
 
@@ -30,7 +35,7 @@ Theme pack for iDempiere that includes lite and dark themes. With this plugin iD
 5. Other user might get stuck with the old theme. You either have to clear the browser cookie or run process Switch Theme from the affected user browser.
 
 ## How to switch theme?
-1. Run process Switch Theme.
+1. Click and choose a theme on header panel OR Run process Switch Theme.
 2. Reload the page.
 
 ## How to hide a theme?
